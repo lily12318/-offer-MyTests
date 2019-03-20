@@ -1,0 +1,16 @@
+﻿  test2_Memory_Partition.cpp
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(15): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(15): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(18): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(18): warning C4313: “printf”: 格式字符串中的“%x”与“char *”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(20): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(20): warning C4313: “printf”: 格式字符串中的“%x”与“char *”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(21): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(21): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(22): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(22): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(23): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“const char *”
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(23): warning C4313: “printf”: 格式字符串中的“%x”与“const char *”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(24): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+l:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\myprojects\mytests\test2_memory_partition\test2_memory_partition.cpp(24): warning C4313: “printf”: 格式字符串中的“%x”与“int (__cdecl *)(void)”类型的参数 1 冲突
+  test2_Memory_Partition.vcxproj -> L:\0 文档补充\我的坚果云\找工作准备\book\剑指offer第二版\MyProjects\MyTests\x64\Debug\test2_Memory_Partition.exe

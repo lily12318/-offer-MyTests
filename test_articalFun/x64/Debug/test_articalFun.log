@@ -1,0 +1,4 @@
+﻿  test_articalFun.cpp
+l:\0 文档补充\03projects\my_project_cpp\my_project_cpp\mytests\test_articalfun\test_articalfun.cpp(24): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+l:\0 文档补充\03projects\my_project_cpp\my_project_cpp\mytests\test_articalfun\test_articalfun.cpp(24): warning C4244: “初始化”: 从“double”转换到“const unsigned int”，可能丢失数据
+  test_articalFun.vcxproj -> L:\0 文档补充\03Projects\my_project_cpp\my_project_cpp\MyTests\x64\Debug\test_articalFun.exe

@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/1/16 22:15:48。
+     1>项目“L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\Utilities\Utilities.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software\VisualStudio2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _WINDOWS /D _USRDLL /D UTILITIES_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Array.cpp BinaryTree.cpp List.cpp StringUtil.cpp Tree.cpp
+         Tree.cpp
+         StringUtil.cpp
+         List.cpp
+         BinaryTree.cpp
+         Array.cpp
+         正在生成代码...
+       Link:
+         D:\software\VisualStudio2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\x64\Debug\Utilities.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\x64\Debug\Utilities.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\x64\Debug\Utilities.lib" /MACHINE:X64 /DLL x64\Debug\Array.obj
+         x64\Debug\BinaryTree.obj
+         x64\Debug\List.obj
+         x64\Debug\StringUtil.obj
+         x64\Debug\Tree.obj
+           正在创建库 L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\x64\Debug\Utilities.lib 和对象 L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\x64\Debug\Utilities.exp
+         Utilities.vcxproj -> L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\x64\Debug\Utilities.dll
+     1>已完成生成项目“L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\Utilities\Utilities.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.74

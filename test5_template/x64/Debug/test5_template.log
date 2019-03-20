@@ -1,0 +1,7 @@
+﻿  test5_template.cpp
+l:\0 文档补充\我的坚果云\找工作准备\myprojects\mytests\test5_template\test5_template.cpp(36): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  test5_template.vcxproj -> L:\0 文档补充\我的坚果云\找工作准备\MyProjects\MyTests\x64\Debug\test5_template.exe

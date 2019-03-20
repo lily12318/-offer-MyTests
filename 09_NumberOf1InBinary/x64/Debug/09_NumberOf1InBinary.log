@@ -1,0 +1,14 @@
+﻿  09_NumberOf1InBinary.cpp
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(47): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(47): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(49): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(49): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(53): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(53): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(55): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(55): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(59): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(59): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(61): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+l:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\myprojects\mytests\09_numberof1inbinary\09_numberof1inbinary.cpp(61): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
+  09_NumberOf1InBinary.vcxproj -> L:\0 文档补充\我的坚果云\找工作准备\剑指offer第二版\MyProjects\MyTests\x64\Debug\09_NumberOf1InBinary.exe
